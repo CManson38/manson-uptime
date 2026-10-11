@@ -1,7 +1,7 @@
 url: https://bitwarden.$FQDN
-status: down
-code: 404
-responseTime: 469
-lastUpdated: 2026-10-11T14:01:24.060Z
+status: up
+code: 200
+responseTime: 1571
+lastUpdated: 2026-10-11T14:21:08.439Z
 startTime: 2025-08-25T02:30:11.250Z
 generator: Upptime <https://github.com/upptime/upptime>
