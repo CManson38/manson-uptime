@@ -4,17 +4,17 @@
     "url": "https://$FQDN",
     "icon": "https://icons.duckduckgo.com/ip3/$fqdn.ico",
     "slug": "homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "98.43%",
-    "uptimeDay": "97.16%",
-    "uptimeWeek": "97.58%",
+    "uptimeDay": "97.04%",
+    "uptimeWeek": "97.56%",
     "uptimeMonth": "96.90%",
     "uptimeYear": "98.33%",
-    "time": 1912,
-    "timeDay": 3724,
-    "timeWeek": 3025,
-    "timeMonth": 4133,
-    "timeYear": 2027,
+    "time": 1914,
+    "timeDay": 3602,
+    "timeWeek": 3045,
+    "timeMonth": 4120,
+    "timeYear": 2030,
     "dailyMinutesDown": {
       "2025-10-15": 52,
       "2025-11-11": 49,
@@ -76,7 +76,7 @@
       "2026-10-09": 21,
       "2026-10-10": 66,
       "2026-10-12": 56,
-      "2026-10-13": 20
+      "2026-10-13": 22
     }
   },
   {
@@ -113,7 +113,7 @@
       "2026-05-09": 18,
       "2026-05-17": 28,
       "2026-06-05": 86,
-      "2026-10-13": 1110,
+      "2026-10-13": 1113,
       "2026-10-12": 1440,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
@@ -276,7 +276,7 @@
       "2026-08-06": 55,
       "2026-08-17": 384,
       "2026-08-20": 624,
-      "2026-10-13": 1110,
+      "2026-10-13": 1113,
       "2026-10-12": 1440,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
@@ -374,7 +374,7 @@
       "2026-07-25": 593,
       "2026-08-01": 27,
       "2026-08-17": 379,
-      "2026-10-13": 1110,
+      "2026-10-13": 1113,
       "2026-10-12": 1440,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
@@ -436,17 +436,17 @@
     "url": "https://bitwarden.$FQDN",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.$fqdn.ico",
     "slug": "bitwarden",
-    "status": "down",
+    "status": "up",
     "uptime": "98.54%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.55%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.52%",
     "uptimeMonth": "98.06%",
     "uptimeYear": "98.42%",
     "time": 1043,
-    "timeDay": 1017,
-    "timeWeek": 834,
-    "timeMonth": 845,
-    "timeYear": 1071,
+    "timeDay": 969,
+    "timeWeek": 836,
+    "timeMonth": 846,
+    "timeYear": 1070,
     "dailyMinutesDown": {
       "2025-10-15": 51,
       "2025-11-11": 47,
@@ -481,7 +481,7 @@
       "2026-09-30": 346,
       "2026-10-11": 20,
       "2026-10-12": 21,
-      "2026-10-13": 5
+      "2026-10-13": 8
     }
   },
   {
@@ -489,16 +489,16 @@
     "url": "https://plex.$FQDN",
     "icon": "https://icons.duckduckgo.com/ip3/plex.$fqdn.ico",
     "slug": "plex",
-    "status": "down",
+    "status": "up",
     "uptime": "98.52%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "98.22%",
     "uptimeYear": "98.41%",
     "time": 847,
-    "timeDay": 615,
+    "timeDay": 630,
     "timeWeek": 660,
-    "timeMonth": 1058,
+    "timeMonth": 1051,
     "timeYear": 889,
     "dailyMinutesDown": {
       "2025-10-15": 50,
@@ -534,7 +534,7 @@
       "2026-09-27": 329,
       "2026-09-30": 341,
       "2026-10-12": 16,
-      "2026-10-13": 0
+      "2026-10-13": 3
     }
   }
 ]
